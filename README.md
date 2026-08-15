@@ -142,6 +142,6 @@ The interactive dashboard includes:
 ---
 
 ## 👤 Author
-**S Mohan**  
+**M V SAI KRISHNA**  
 Data Analytics Portfolio Project  
 (SQL • Python • Looker Studio)
